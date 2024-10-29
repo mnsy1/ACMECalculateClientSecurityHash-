@@ -1,4 +1,4 @@
-# Calculate Client Security Hash
+# ACME WI5 Calculate Client Security Hash
 
 This UiPath project automates the workflow for calculating the Client Security Hash in the ACME System using the **Robotic Enterprise Framework (REFramework)**. It extracts client details from the system, processes the data, generates a secure hash using the SHA1 algorithm, and updates the ACME System1 website with the result.
 
